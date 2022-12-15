@@ -1,0 +1,63 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-image: url("https://img.freepik.com/vetores-gratis/servico-de-cambio-de-moeda-transferencia-monetaria-troca-de-dolar-em-euro-compra-e-venda-de-dinheiro-estrangeiro-moedas-de-ouro-com-simbolos-de-moeda-da-ue-e-dos-eua-ilustracao-vetorial-de-metafora-de-conceito-isolado_335657-2818.jpg?w=740&t=st=1662520319~exp=1662520919~hmac=06a575a6e4bedae1973163aca5bd7d030224e197ffb62bdc2b4e6f01f5d4dfd8");
+    background-color: White;
+    background-size: 100vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 30px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color:purple;
+    margin: 0 0 15px;
+  }
+  
+  .page-subtitle {
+    color:purple
+  ;
+    margin-top: 15px;
+  }
+  
+  .page-logo {
+    width: 15px;
+  }
+  
+  .alura-logo {
+    color: blue;
+    width: 80px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    
+  }
+  
+  input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+  }
+  
+  label {
+    color: purple;
+    
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  
+  h2 {
+    color: black;
+    font-size: 30px;
+  }
+  
